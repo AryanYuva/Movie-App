@@ -1,0 +1,15 @@
+.navbar .navbar-brand
+{
+    color: #E50914;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link
+{
+    color: yellow;
+}
+
+.navbar-toggler-icon{
+    background-color: greenyellow;
+    border: greenyellow;
+}
